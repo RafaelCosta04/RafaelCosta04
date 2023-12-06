@@ -32,11 +32,11 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 - :telescope: I’m working on my future!
 
-- :seedling: In this moment I'm finishing the 12th grade.
+- :seedling: In this moment i have the 12th grade in, technical professional course in computer systems management and programming, level 4 in the QNQ, in Portugal.
 
 - :zap: In my free time, I play games like GTA V RP, Fortnite, Fifa, and others.
 
-- :mailbox: How to reach me: tnoob_rafa#4208 in Discord
+- :mailbox: How to reach me: Rafa#4208 in Discord
 
 ---
 
