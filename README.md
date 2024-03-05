@@ -36,7 +36,7 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 - :zap: In my free time, I play games like GTA V RP, Fortnite, Fifa, and others.
 
-- :mailbox: How to reach me: Rafa#4208 in Discord
+- :mailbox: How to reach me: tnoob_rafa in Discord
 
 ---
 
